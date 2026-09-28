@@ -1,37 +1,34 @@
-# UGA Terry College — M.S. in Business Analytics (MSBA) 지원 준비
+# UGA Terry College — M.S. in Business Analytics (MSBA) · Sukwoo Chung
 
-- 공식 페이지: https://www.terry.uga.edu/msba/admissions/
-- 클래스 프로필: https://www.terry.uga.edu/msba/admissions/class-profile/
-- 커리큘럼: https://www.terry.uga.edu/msba/curriculum/
+- 공식 페이지: https://www.terry.uga.edu/msba/admissions/ · 커리큘럼: https://www.terry.uga.edu/msba/curriculum/
+- 지원 포털: https://apply.terry.uga.edu
+- 프로그램: Athens 캠퍼스, 풀타임 코호트, 가을 입학·이듬해 봄 수료(2학기, 33학점), STEM(OPT 3년)
+- 스프레드시트 분류: **Safety**, 우선순위 5, 총 COA 약 $94K (리스트 중 최저 수준)
 
-> 아래 내용은 2025-26 사이클 공개 정보 기준입니다. 2026-27 사이클 마감일/에세이 문항은 공식 페이지와 지원 포털에서 반드시 재확인하세요.
-
-## 지원 자격 (Prerequisites)
-- [ ] 대학 수준 **통계학 입문** 이수/역량
-- [ ] 대학 수준 **미적분** 이수/역량
-- [ ] 학부 GPA **3.0 이상**
-- [ ] 고급 프로그래밍 언어 1개 이상 (R, Python, SQL, C, Java 등)
-- [ ] 인턴십 또는 풀타임 경력 **1회 이상**
-
-## 제출 서류 체크리스트
-| 항목 | 상태 | 비고 |
+## 마감일
+| 라운드 | 날짜 | 비고 |
 |---|---|---|
-| 1페이지 이력서 | ☐ | `resume/` |
-| 추천서 1부 (필수) | ☐ | `recommendations/` |
-| 추천서 1부 (선택, 인턴 상사 선호) | ☐ | |
-| 비공식 성적증명서 | ☐ | 영문 |
-| GMAT / GRE (자기보고) | ☐ | 일부 지원자 면제 신청 가능 |
-| TOEFL / IELTS (자기보고) | ☐ | 비원어민 필수 |
-| 필수 에세이 1편 | ☐ | `essays/required_essay.md` |
-| 선택 에세이 1편 | ☐ | `essays/optional_essay.md` |
-| 선택 비디오 에세이 | ☐ | 문항은 지원서 내 공개 |
-| 지원비 $75 | ☐ | |
+| **R1** | **2026-11-05** (본인 시트 기준) | ⚠️ 공개 자료의 전년도 R1은 11/1이었음. 포털에서 확인 필요 |
+| R2 | 2027-02-15 | 유학생 최종 마감 |
 
-## 마감일 (2025-26 사이클 기준, 참고용)
-| 라운드 | 마감 | 비고 |
+## 지원 자격 점검
+| 요건 | 본인 현황 | 상태 |
 |---|---|---|
-| Round 1 | 11월 1일 | Double Dawgs 지원자 권장 |
-| Round 2 | 2월 15일 | **유학생 최종 마감** |
-| Round 3 | 4월 15일 | 전체 최종 마감, 이후 롤링 |
+| 통계 입문 | STAT 301 (A), GEN BUS 304 (A) | ✅ |
+| 미적분 | MATH 221 (A), MATH 222 (B) | ✅ |
+| GPA 3.0 이상 | 3.457 (UW–Madison BBA) | ✅ |
+| 프로그래밍 언어 | SQL, Python (실무 활용) | ✅ 정식 수강 이력은 없음. 에세이와 waiver에서 실무 사용으로 증명 |
+| 인턴 또는 정규직 경력 | 약 12.7년 | ✅ |
 
-> 유학생(F-1 비자 필요)이라면 Round 2가 사실상 마지막 기회입니다. 비자 서류 일정을 고려하면 **Round 1(11/1) 지원을 권장**합니다.
+## 제출 서류
+| 항목 | 파일 | 상태 |
+|---|---|---|
+| 1페이지 이력서 | Drive `01_Resume/Resume_McCombs_Sukwoo_Chung` 기반 | ☐ 1페이지인지 확인, 수치 통일 (`CONSISTENCY_CHECK.md`) |
+| 추천서 필수 1부 + 선택 1부 | – | ☐ 추천인 확정 (선택 1부는 인턴 상사 선호 → 현 직장 상사로 대체) |
+| 비공식 성적증명서 | Drive `05_Transcripts` (UW-Madison, NUS) | ☐ |
+| GMAT/GRE | 면제 요청 | ☐ `essays/test_waiver_request.md` |
+| TOEFL/IELTS | 미국 학사 학위로 면제 예상 | ☐ 포털에서 면제 조건 확인 |
+| 필수 에세이 | `essays/required_essay.md` (v0.1, 497 words) | ☐ **문항 원문 확인 필요** |
+| 선택 에세이 | `essays/optional_essay.md` (60 words, 병역 공백 설명) | ☐ |
+| 선택 비디오 에세이 | `video_essay_prep.md` | ☐ 제출 권장 |
+| 지원비 $75 | – | ☐ |
