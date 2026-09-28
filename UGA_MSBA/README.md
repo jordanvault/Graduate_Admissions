@@ -28,7 +28,7 @@
 | 비공식 성적증명서 | Drive `05_Transcripts` (UW-Madison, NUS) | ☐ |
 | GMAT/GRE | 면제 요청 | ☐ `essays/test_waiver_request.md` |
 | TOEFL/IELTS | 미국 학사 학위로 면제 예상 | ☐ 포털에서 면제 조건 확인 |
-| 필수 에세이 | `essays/required_essay.md` (v0.2, 495 words) | ☐ **문항 원문 확인 필요** |
-| 선택 에세이 | `essays/optional_essay.md` (60 words, 병역 공백 설명) | ☐ |
+| Short Answers (Career Goals / Technical Experience, 각 250 words) | `essays/short_answers.md` (v1.0: 247 / 241 words) | ☐ 검토 |
+| Optional (250 words) | `essays/short_answers.md` 3번 (60 words) | ☐ |
 | 선택 비디오 에세이 | `video_essay_prep.md` | ☐ 제출 권장 |
 | 지원비 $75 | – | ☐ |
