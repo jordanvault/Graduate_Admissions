@@ -1,4 +1,4 @@
-# UGA Terry MSBA — Short Answer Responses (v1.0)
+# UGA Terry MSBA — Short Answer Responses (v1.1)
 
 실제 포털 문항 기준. 각 250 words 이내. (기존 `required_essay.md`는 가정 문항용 초안이라 대체됨)
 
@@ -24,7 +24,7 @@ The CMC is central to this plan. Although I bring thirteen years of experience, 
 
 **Prompt:** Describe your experience with programming languages or technical tools, such as Python, R, SQL, Tableau, Power BI, Excel, or others. Provide one or two specific examples of how you have used these tools in coursework, projects, internships, or work.
 
-**Word count:** 241
+**Word count:** 249
 
 SQL is my primary tool. At Samsung SDS, I query shipment-level logistics data daily. When regional teams reported that historical volumes changed every time they queried the system, I wrote SQL to compare monthly snapshots at the house-bill level. More than half of the apparent decline came from shipments being re-dated from departure to arrival after confirmation; I classified the remaining changes into four error types. That analysis became the basis for four redesigned aggregation rules and reduced anomalous records from 0.80% to 0.56% within two months.
 
@@ -32,7 +32,7 @@ At Korean Air, I built a reservation-misuse monitoring tool that combined SQL qu
 
 I also use Power BI and Oracle BI for dashboards, Google Analytics 4 combined with internal log data to analyze customer journeys on Samsung SDS's Cello Square platform, and Excel for day-to-day modeling. Recently, I have been building a CPIM study web app with Claude Code, which has taught me to review AI-generated code critically rather than accept it.
 
-My gaps are R and formal machine-learning training; my Python has been applied rather than systematic. The MSBA's coursework in R, Python, and machine learning is where I expect to grow the most.
+My largest data-integration project came earlier at Korean Air: merging more than 100 million ticketing and flown records with Delta Air Lines' passenger data within nine months, reconciling different definitions of customers, bookings, and routes to enable our transpacific joint venture.
 
 ---
 
