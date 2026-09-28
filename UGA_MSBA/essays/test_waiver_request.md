@@ -5,7 +5,7 @@
 
 ---
 
-I respectfully request a GMAT/GRE waiver based on my undergraduate quantitative record and more than twelve years of analytical work experience.
+I respectfully request a GMAT/GRE waiver based on my undergraduate quantitative record and thirteen years of professional experience in analytics, revenue management, and logistics.
 
 **Academic preparation.** I earned a Bachelor of Business Administration in Finance, Investment and Banking from the University of Wisconsin–Madison (August 2013) with a cumulative GPA of 3.457/4.0. I earned a B or better in every statistics and mathematics course I completed:
 

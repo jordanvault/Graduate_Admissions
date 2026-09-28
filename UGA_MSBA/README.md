@@ -18,17 +18,17 @@
 | 미적분 | MATH 221 (A), MATH 222 (B) | ✅ |
 | GPA 3.0 이상 | 3.457 (UW–Madison BBA) | ✅ |
 | 프로그래밍 언어 | SQL, Python (실무 활용) | ✅ 정식 수강 이력은 없음. 에세이와 waiver에서 실무 사용으로 증명 |
-| 인턴 또는 정규직 경력 | 약 12.7년 | ✅ |
+| 인턴 또는 정규직 경력 | 13년 (Korean Air 11년 + Samsung SDS 2년) | ✅ |
 
 ## 제출 서류
 | 항목 | 파일 | 상태 |
 |---|---|---|
-| 1페이지 이력서 | Drive `01_Resume/Resume_McCombs_Sukwoo_Chung` 기반 | ☐ 1페이지인지 확인, 수치 통일 (`CONSISTENCY_CHECK.md`) |
+| 1페이지 이력서 | Drive `01_Resume/Resume_McCombs_Sukwoo_Chung` 기반 | ☐ 1페이지인지 확인, Tableau 대신 Power BI로 표기 통일 |
 | 추천서 필수 1부 + 선택 1부 | – | ☐ 추천인 확정 (선택 1부는 인턴 상사 선호 → 현 직장 상사로 대체) |
 | 비공식 성적증명서 | Drive `05_Transcripts` (UW-Madison, NUS) | ☐ |
 | GMAT/GRE | 면제 요청 | ☐ `essays/test_waiver_request.md` |
 | TOEFL/IELTS | 미국 학사 학위로 면제 예상 | ☐ 포털에서 면제 조건 확인 |
-| 필수 에세이 | `essays/required_essay.md` (v0.1, 497 words) | ☐ **문항 원문 확인 필요** |
+| 필수 에세이 | `essays/required_essay.md` (v0.2, 495 words) | ☐ **문항 원문 확인 필요** |
 | 선택 에세이 | `essays/optional_essay.md` (60 words, 병역 공백 설명) | ☐ |
 | 선택 비디오 에세이 | `video_essay_prep.md` | ☐ 제출 권장 |
 | 지원비 $75 | – | ☐ |
