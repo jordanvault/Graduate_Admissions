@@ -45,7 +45,7 @@ swchung2469@gmail.com | +82-10-3613-3315 | linkedin.com/in/sukwoo-chung-b62ba115
 - Mathematics for Machine Learning: Linear Algebra, Imperial College London (Coursera)
 
 ## ENTREPRENEURSHIP, SERVICE & COMMUNITY
-- Founder/Product Owner, Aimollae Book ([MM/YY] – Present): designed and commercialized a phone-hiding book for parents, selling 2,000+ units and generating approximately $25K in revenue; preparing U.S. market launch
+- Founder/Product Owner, Aimollae Book (11/25 – Present): designed and commercialized a phone-hiding book for parents, selling 2,000+ units and generating approximately $25K in revenue; preparing U.S. market launch
 - Republic of Korea Army, mandatory military service — 09/09 – 07/11
 - [Professional organizations / volunteer / community involvement: 있으면 추가, 없으면 이 줄 삭제]
 
@@ -55,5 +55,5 @@ swchung2469@gmail.com | +82-10-3613-3315 | linkedin.com/in/sukwoo-chung-b62ba115
 - **Global experience:** Worked with U.S., Japanese, and Philippine partners (Delta Air Lines, PROS, JAL/ANA); led sales and marketing for Korean Air's Philippines regional office (Manila, Cebu, Guam)
 
 ## SALARY HISTORY
-- **Samsung SDS (09/24 – Present):** [연봉 입력: KRW ______ / 약 USD ______]
-- **Korean Air (01/14 – 08/24):** [재직 종료 시점 연봉 입력, 또는 연도별 범위]
+- **Samsung SDS (09/24 – Present):** Current annual base salary KRW 120 million (approx. USD 88,000)
+- **Korean Air (01/14 – 08/24):** Final annual base salary KRW 90 million (approx. USD 66,000)
