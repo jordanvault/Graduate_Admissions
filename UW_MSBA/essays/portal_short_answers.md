@@ -37,3 +37,7 @@
 > ❓ 실제로 사용한 방식에 맞게 수정. 아래는 이 작업 방식 기준의 초안.
 
 I used Claude (Anthropic) as a writing and organization assistant. I provided my own resume facts, work examples, and data from my experience, and Claude helped structure and draft early versions of my essay and short answers, and helped me organize the application requirements. I then reviewed every claim for accuracy against my own records and revised the text so that it reflects my own experience and voice. Claude did not supply any facts about my career. I did not use AI tools during the video interview.
+
+## Test Optional — Analytical/Quantitative Evidence (75 words 이내, 69 words)
+
+At Korean Air, I built Python logistic regression and random forest models to segment COVID-era route recovery for forecasting and pricing, and a SQL monitoring tool that prevented an estimated $370,000 in annual revenue leakage. At Samsung SDS, I led a six-person task force that redesigned four data aggregation rules and recovered 28,306 FEU of misclassified volume. At UW–Madison, I earned A grades in statistics and calculus (GPA 3.457).
