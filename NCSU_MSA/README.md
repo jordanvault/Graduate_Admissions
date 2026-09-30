@@ -3,6 +3,7 @@
 - 지원 포털: https://applygrad.ncsu.edu/apply/
 - 마감: **우선 2026-11-01** / 최종 2027-04-01 (10개월 풀타임 프로그램)
 - GRE/GMAT: 요구하지도 심사하지도 않음
+- **면접 필수** (Interview Required: Yes), 대면(On Campus) 프로그램. 일정·형식은 지원 후 안내 확인
 
 ## 제출 서류 (공식 체크리스트 기준)
 | 항목 | 파일 / 방법 | 상태 |
@@ -13,7 +14,8 @@
 | 현재 이력서 | `resume.md` | ☐ [ ] 채우기 → PDF |
 | 추천서 2부 (선택 1부 추가 가능) | 포털에 추천인 이메일 입력 → 추천인에게 자동 메일 발송 | ☐ 추천인 확정, **미리 연락** |
 | 지원비 | 국내 $85 / 국제 $95 | ☐ 국제 지원자 기준 $95 예상 |
-| Other Documents | 요구 서류 없음, 비워 둠 | – |
+| Other Documents | 카탈로그·프로그램 페이지 모두 추가 서류 언급 없음, 비워 둠 | – |
+| **면접** | 지원 후 초대 시 진행 | ☐ 예상 질문 준비 (`video_essay_prep.md` 스토리 뱅크 재활용) |
 | Education Supplement (선택) | `education_supplement.md` | ☐ 넣을지 결정 |
 
 제출 후 수정할 수 없는 문서는 Personal Statement, Resume, Other Documents, Supplement입니다.
