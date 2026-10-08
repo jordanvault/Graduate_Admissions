@@ -7,6 +7,9 @@
 > 마감일·요건은 웹 검색 결과 요약(2025–26 사이클 기준)이며 미확정입니다.
 > 인포세션 내용은 아래 "인포세션 슬라이드 요약"에 반영했습니다(제공해 주신 슬라이드 캡처 8장 기준. 커리큘럼·취업 통계·마감일 슬라이드는 없었음).
 
+## ⚠️ AI 사용 정책 충돌 (Program Requirements 페이지)
+프로그램 페이지: "Use of AI tools, writing assistance platforms, or externally generated content is **not permitted** and may result in application denial." 반면 Statement of Integrity 문항은 "다듬는 용도만 허용, 사용 시 공개"라고 되어 있어 서로 다름. **더 엄격한 쪽을 따라 에세이·답변은 본인이 직접 작성**하고, 이 폴더의 초안은 참고용으로만 쓸 것. 애매하면 fostermsba@uw.edu에 확인.
+
 ## 마감일 (포털 확인, Summer 2027 입학)
 | 라운드 | 날짜 | 비고 |
 |---|---|---|
