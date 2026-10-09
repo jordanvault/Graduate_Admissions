@@ -3,7 +3,7 @@
 ## 파일
 | 항목 | 파일 | 분량 (제한) |
 |---|---|---|
-| Academic Statement of Purpose | `essays/academic_sop.md` | 약 470 words (500) |
+| Academic Statement of Purpose | `essays/academic_sop.md` | 약 480 words (500) |
 | Personal Statement | `essays/personal_statement.md` | 약 435 words (300–500) |
 
 ## 작성 원칙
