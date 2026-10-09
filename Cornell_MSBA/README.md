@@ -4,7 +4,7 @@
 | 항목 | 파일 | 분량 (제한) |
 |---|---|---|
 | Academic Statement of Purpose | `essays/academic_sop.md` | 약 450 words (500) |
-| Personal Statement | `essays/personal_statement.md` | 약 445 words (300–500) |
+| Personal Statement | `essays/personal_statement.md` | 약 475 words (300–500) |
 
 ## 작성 원칙
 - 팩트는 `UGA_MSBA/CONSISTENCY_CHECK.md` 기준 (경력 11년+2년, 7명 팀, Power BI, $370K·600+건, 28,306 FEU).
