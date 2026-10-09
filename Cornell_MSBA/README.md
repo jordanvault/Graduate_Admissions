@@ -3,7 +3,7 @@
 ## 파일
 | 항목 | 파일 | 분량 (제한) |
 |---|---|---|
-| Academic Statement of Purpose | `essays/academic_sop.md` | 약 420 words (500) |
+| Academic Statement of Purpose | `essays/academic_sop.md` | 약 470 words (500) |
 | Personal Statement | `essays/personal_statement.md` | 약 435 words (300–500) |
 
 ## 작성 원칙
@@ -12,7 +12,7 @@
 - 다른 학교 에세이의 공통 서사(pricing & capacity, orchestrator, beginner mindset) 유지.
 
 ## 제출 전 확인 사항
-- [ ] SOP 4번째 문단의 `[확인 필요]`: Cornell 공식 커리큘럼에서 과목/교수/프로젝트 1–2개를 찾아 구체화 (검증 안 된 정보는 넣지 않음)
+- [x] SOP 4번째 문단: 공식 카탈로그 설명(OSCA 집중 과정, 10개월, NYC, 학습 성과)으로 구체화. 개별 과목명·교수진은 카탈로그에 접속하지 못해 미반영 (원하면 직접 확인 후 1–2개 추가)
 - [ ] PS의 개인 배경 사실 확인, 추가하고 싶은 개인 스토리(역경, 정체성) 있으면 보강
 - [ ] 340% 증가 표기가 TAMU 에세이와 동일한지 확인
 - [ ] `[확인 필요]` 문구 삭제 후 포털에서 글자 수 재확인
